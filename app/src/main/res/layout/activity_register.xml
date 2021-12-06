@@ -28,6 +28,7 @@
             android:inputType="textPersonName"
             android:padding="5dp"
             android:gravity="center"
+            android:hint="请输入用户名"
             />
 
         <EditText
