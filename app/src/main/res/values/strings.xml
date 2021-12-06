@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My LoginActivity</string>
+    <string name="app_version">version: 1.0.0 Beta</string>
+
+</resources>
